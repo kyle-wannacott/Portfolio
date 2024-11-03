@@ -15,7 +15,7 @@ function Contact() {
 
   useEffect(() => {
     fetch(
-      "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lee.wannacott",
+      "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@kyle.wannacott",
       {}
     ).then((resp) =>
       resp
