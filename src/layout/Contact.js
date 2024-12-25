@@ -26,14 +26,14 @@ export class Contact extends Component {
 						<i className="fab fa-linkedin-in icon-linked"> </i>
 					</a>
 					<a
-						href="mailto:WannacottL@gmail.com"
+						href="mailto:kyle.wannacott@gmail.com"
 						rel="noopener noreferrer"
 						target="_blank"
 					>
 						<i className="fa fa-envelope icon-mail"></i>
 					</a>
 					<a
-						href="https://medium.com/@lee.wannacott"
+						href="https://medium.com/@kyle.wannacott"
 						rel="noopener noreferrer"
 						target="_blank"
 					>
